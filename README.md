@@ -17,8 +17,8 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' alt='github' height='40'>
 <img src='https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png' alt='github' height='40'>
 
+
 #### I love to drive meaningful predictive and descriptive inference all kind of data
-I love to drive meaningful predictive and descriptive inference all kind of data
 
 Skills:  Python,  Django, AWS(Amazon Web Services),   Full Stack(HTML,CSS,JavaScript,Bootstrap,SQL,ReactJS),   
 Libraries-  NumPy, Pandas, Matplotlib,
