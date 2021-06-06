@@ -22,7 +22,7 @@ I love to drive meaningful predictive and descriptive inference all kind of data
 Skills:  Python,  Django, AWS(Amazon Web Services),   Full Stack(HTML,CSS,JavaScript,Bootstrap,SQL,ReactJS),   
 Libraries-  NumPy, Pandas, Matplotlib,
 
-- 🌱 I’m currently learning DALL-E 
+- 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate on My projects as contributor  
 - 🤔 I’m looking for help with idea Contributor  
 - 💬 Ask me about My stuff & innovation  
