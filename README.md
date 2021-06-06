@@ -7,7 +7,7 @@
 
 ## About Me 
 
-<img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg' alt='github' height='40'>                <img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg' alt='github' height='40'>              
+<img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg' alt='github' height='40'>                <img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/Full Stack Developer.svg' alt='github' height='40'>              
 
 
 
