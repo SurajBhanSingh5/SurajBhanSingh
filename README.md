@@ -15,6 +15,7 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png' alt='github' height='40'>
 <img src='https://john-dugan.com/wp-content/uploads/2014/10/jquery-logo-blue.png' alt='github' height='40'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' alt='github' height='40'>
+<img src='https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png' alt='github' height='40'>
 
 #### I love to drive meaningful predictive and descriptive inference all kind of data
 I love to drive meaningful predictive and descriptive inference all kind of data
